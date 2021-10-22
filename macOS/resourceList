@@ -1,0 +1,4 @@
+1. Big Sur and built-in dynamic linker cache: 从 Big Sur 开始，动态库不能通过 path 查找：
+https://ladydebug.com/blog/2021/04/16/big-sur-and-built-in-dynamic-linker-cache/
+https://gitlab.kitware.com/cmake/cmake/-/issues/20863
+https://developer.apple.com/documentation/macos-release-notes/macos-big-sur-11_0_1-release-notes
